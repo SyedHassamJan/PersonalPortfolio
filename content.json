@@ -1,7 +1,7 @@
 {
   "meta": {
-    "issue": "PORTFOLIO — 2026",
-    "edition": "EDITION 2026 // PAKISTAN",
+    "issue": "",
+    "edition": "",
     "ticker_top": "VOL. I — FULL STACK DEVELOPMENT — SCALABLE SYSTEMS — REACT — NODE.JS — AI APPLICATIONS — ",
     "ticker_bottom": "— BUILD SYSTEMS THAT SCALE — FRONTEND TO BACKEND — FORM FOLLOWS FUNCTION — CODE THAT DELIVERS — "
   },
@@ -11,16 +11,16 @@
     "body": "Full Stack Developer building scalable backend, frontend systems and AI applications. Crafting performant web experiences from database to UI.",
     "stats": [
       {
-        "num": "4+",
-        "label": "LIVE PROJECTS"
+        "num": "9+",
+        "label": "PRODUCTION PROJECTS"
       },
       {
         "num": "2+",
         "label": "YEARS EXP"
       },
       {
-        "num": "Full",
-        "label": "STACK DEV"
+        "num": "12+",
+        "label": "PERSONAL PROJECTS"
       }
     ]
   },
