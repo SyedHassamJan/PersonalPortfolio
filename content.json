@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "issue": "PORTFOLIO — 2026",
+    "edition": "EDITION 2026 // PAKISTAN",
+    "ticker_top": "VOL. I — FULL STACK DEVELOPMENT — SCALABLE SYSTEMS — REACT — NODE.JS — AI APPLICATIONS — ",
+    "ticker_bottom": "— BUILD SYSTEMS THAT SCALE — FRONTEND TO BACKEND — FORM FOLLOWS FUNCTION — CODE THAT DELIVERS — "
+  },
+  "hero": {
+    "headline_1": "Hi I Am",
+    "headline_2": "Syed Hassam Jan.",
+    "body": "Full Stack Developer building scalable backend, frontend systems and AI applications. Crafting performant web experiences from database to UI.",
+    "stats": [
+      {
+        "num": "4+",
+        "label": "LIVE PROJECTS"
+      },
+      {
+        "num": "2+",
+        "label": "YEARS EXP"
+      },
+      {
+        "num": "Full",
+        "label": "STACK DEV"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "num": "01",
+      "title": "Restoran Al Khalifa",
+      "subtitle": "RESTAURANT WEBSITE",
+      "tags": [],
+      "desc": "",
+      "accent": "red",
+      "href": "https://restoranalkhalifa.com/"
+    },
+    {
+      "num": "02",
+      "title": "Atriona Digital",
+      "subtitle": "DIGITAL AGENCY",
+      "tags": [],
+      "desc": "",
+      "accent": "blue",
+      "href": "https://atriona-digital.com/de"
+    },
+    {
+      "num": "03",
+      "title": "Software Forge Agency",
+      "subtitle": "SOFTWARE AGENCY",
+      "tags": [],
+      "desc": "",
+      "accent": "yellow",
+      "href": "https://softwareforge.agency/"
+    },
+    {
+      "num": "04",
+      "title": "Pine Travel",
+      "subtitle": "HOTEL & TRAVEL",
+      "tags": [],
+      "desc": "",
+      "accent": "black",
+      "href": "https://pinetravel.pk/"
+    }
+  ],
+  "experience": [
+    {
+      "years": "2026 — PRES",
+      "role": "Full Stack Developer",
+      "org": "Softwareforge",
+      "desc": "Building scalable full-stack web applications and AI-powered systems for clients across multiple industries."
+    },
+    {
+      "years": "2024 — 2025",
+      "role": "Full Stack Engineer",
+      "org": "Firnas Tech",
+      "desc": "Developed and maintained full-stack features across frontend and backend, delivering scalable and reliable production systems."
+    },
+    {
+      "years": "2023 — 2024",
+      "role": "Frontend Engineer Intern",
+      "org": "Firnas Tech",
+      "desc": "Built responsive, modern frontend interfaces using React and related technologies. Gained hands-on experience in production-grade codebases."
+    }
+  ],
+  "skills": {
+    "buckets": [
+      {
+        "title": "LANGUAGES",
+        "color": "blue",
+        "list": "JavaScript, TypeScript, Python, C++"
+      },
+      {
+        "title": "FRONTEND",
+        "color": "none",
+        "list": "React, Next.js, Redux Toolkit, RTK Query, TanStack Query, Zustand, Tailwind CSS, CSS3, HTML5, Bootstrap, SASS, WebRTC"
+      },
+      {
+        "title": "BACKEND",
+        "color": "yellow",
+        "list": "Node.js, NestJS, Express.js, Redis, Socket.IO, GraphQL, OpenRouter, Clerk Auth, OAuth, Supabase, Firebase, JWT"
+      },
+      {
+        "title": "DATABASES",
+        "color": "none",
+        "list": "MongoDB, Mongoose, PostgreSQL, MySQL, Prisma, TypeORM"
+      }
+    ],
+    "marquee": "REACT / NEXT.JS / NODE.JS / NESTJS / POSTGRESQL / MONGODB / TYPESCRIPT / TAILWIND / "
+  },
+  "services": [
+    {
+      "name": "SaaS Applications"
+    },
+    {
+      "name": "Frontend Design"
+    },
+    {
+      "name": "Frontend + Backend"
+    },
+    {
+      "name": "Scalable Code System Design"
+    },
+    {
+      "name": "AI Powered Applications"
+    }
+  ],
+  "contact": {
+    "email": "hassamjan0012@gmail.com",
+    "github_org": "https://github.com/SyedHassamJan",
+    "github_personal": "https://github.com/SyedHassamJan",
+    "linkedin": "https://www.linkedin.com/in/syed-hassam-jan-706934342/",
+    "youtube": "",
+    "medium": "",
+    "discord": "",
+    "buymeacoffee": ""
+  },
+  "footer": {
+    "left": "© 2026 SYED HASSAM JAN",
+    "right": "FULL STACK DEVELOPER"
+  }
+}
