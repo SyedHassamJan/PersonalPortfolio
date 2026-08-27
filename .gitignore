@@ -4,7 +4,7 @@ styles/tailwind-output.css
 # Node
 node_modules/
 
-# Trunk build output
-dist/
+# Trunk build output — committed for Vercel static deployment
+# dist/
 
 target/
