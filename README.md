@@ -37,6 +37,3 @@ cargo install trunk
 trunk serve --open
 ```
 
-## License
-
-MIT
