@@ -26,6 +26,7 @@ pub fn Contact() -> impl IntoView {
                 <a href=ct.github_org target="_blank"
                    class="col-span-1 md:col-span-4 contact-link flex items-center justify-center font-sans text-[0.75rem] font-bold tracking-[0.2em] py-5 md:border-r border-b md:border-b-0 hover-target">"GITHUB"</a>
                 <a href=ct.linkedin target="_blank"
+                       aria-label="Syed Hassam Jan on LinkedIn"
                    class="col-span-1 md:col-span-4 contact-link flex items-center justify-center font-sans text-[0.75rem] font-bold tracking-[0.2em] py-5 hover-target">"LINKEDIN"</a>
             </div>
             <div class="grid grid-cols-1 md:grid-cols-12">

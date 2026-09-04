@@ -19,7 +19,7 @@
 
 - **Email:** hassamjan0012@gmail.com
 - **GitHub:** [SyedHassamJan](https://github.com/SyedHassamJan)
-- **LinkedIn:** [syed-hassam-jan](https://www.linkedin.com/in/syed-hassam-jan-706934342/)
+ - **LinkedIn:** [syedhassamjan](https://www.linkedin.com/in/syedhassamjan/)
 
 ## Running Locally
 
